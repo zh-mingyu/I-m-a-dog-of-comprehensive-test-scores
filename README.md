@@ -1,4 +1,4 @@
-# SDAU 软院效率中枢 (SDAU Software Efficiency Hub)
+# SDU 软院效率中枢 (SDU Software Efficiency Hub)
 
 🚀 **专为山东大学软件学院学子量身定制的桌面级效率管理终端。**
 
