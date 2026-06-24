@@ -8,7 +8,9 @@
 
   <br/>
 
-   mac用户下载dmg，win用户下载exe即可。也可运行py文件。
+   dmg for Mac<br/>
+   exe for Windows<br/>
+   py for All<br/>
 
 </div>
 
