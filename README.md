@@ -8,7 +8,7 @@
 
   <br/>
 
-   # 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀<br/><br/><span style="font-size: 2.5em; color: #4F46E5;">**🚀下载 main.py 运行就行了🚀**</span><br/><br/>🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀<br/>
+   # 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀<br/><br/><span style="font-size: 2.5em; color: #4F46E5;">**🚀下载 main.py 运行就行了🚀**</span><br/><br/>🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀<br/>
 
 </div>
 
@@ -65,6 +65,9 @@ git clone [项目地址]
 pip install -r requirements.txt
 python main.py
 ```
+
+### 方式 C：直接运行
+mac用户下载dmg，win用户下载exe即可
 
 ---
 
