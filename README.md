@@ -8,7 +8,7 @@
 
   <br/>
 
-   # 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀<br/><br/><span style="font-size: 2.5em; color: #4F46E5;">**🚀下载 main.py 运行就行了🚀**</span><br/><br/>🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀<br/>
+   mac用户下载dmg，win用户下载exe即可。也可运行py文件。
 
 </div>
 
